@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jules-Latapy/Jules-Latapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello !
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jules-Latapy)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jules-Latapyshow_icons=true&title_color=999&text_color=9f9f9f&bg_color=00000000&hide_border=true")
 
 ![counter](https://enkdspcjlqmnsoy.m.pipedream.net)
