@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jules-Latapy&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=00000000&border_radius=20%&border_color=047a74&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Latapy)](https://github.com/Jules-Latapy/github-readme-stats)
 
 <!--![counter](https://enkdspcjlqmnsoy.m.pipedream.net)-->
