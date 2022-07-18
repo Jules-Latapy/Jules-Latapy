@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hello !
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jules-Latapy&show_icons=true&title_color=999&text_color=9f9f9f&bg_color=00000000&hide_border=true")
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jules-Latapy&show_icons=true&title_color=#F92672&text_color=9f9f9f&bg_color=00000000&hide_border=true")
 
 ![counter](https://enkdspcjlqmnsoy.m.pipedream.net)
