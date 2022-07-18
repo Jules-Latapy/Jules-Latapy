@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hello I am Jules !
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jules-Latapy&include_all_commits=true&count_private=true&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=202020&border_radius=20%&border_color=047a74">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jules-Latapy&include_all_commits=true&count_private=true&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=202020&border_radius=20%&border_color=047a74">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Latapy&hide=HTML&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=202020&border_radius=20%&border_color=047a74&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Latapy&hide=HTML&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=202020&border_radius=20%&border_color=047a74&layout=compact">
   
 <!--![counter](https://enkdspcjlqmnsoy.m.pipedream.net)-->
