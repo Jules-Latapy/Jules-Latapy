@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hello !
 
-<table>
+<table style"border:0px;align:top;">
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=Jules-Latapy&include_all_commits=true&count_private=true&show_icons=true&icon_color=AE81FF&title_color=F92672&text_color=FEED6C&bg_color=202020&border_radius=20%&border_color=047a74">
 
