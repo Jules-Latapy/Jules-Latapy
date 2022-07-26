@@ -1,0 +1,42 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
+	<path name ="Background"
+		d="M0 0 100 0 100 100 0 100 0 0"
+		fill="#000000"/>
+
+
+
+	<path name = "column"
+		d="M4 9M4 9 35 9 35 10 4 10 4 9M4 12 35 12 35 13 4 13 4 12M4 14 35 14 35 15 4 15 4 14"
+		fill="#202020"/>
+
+	<path name="punched card"
+		d="
+M36 6 3 6 3 14C3 16 4 17 6 17L33 17C35 17 36 16 36 14L36 6M6 16 5 16 5 7 6 7 6 16M7 16 7 7 8 7 8 16 7 16M9 16 9 7 10 7 10 16 9 16M11 16 11 7 12 7 12 16 11 16M13 16 13 7 14 7 14 16 13 16M15 16 15 7 16 7 16 16 15 16M17 16 17 7 18 7 18 16 17 16M19 16 19 7 20 7 20 16 19 16M21 16 21 7 22 7 22 16 21 16M23 16 23 7 24 7 24 16 23 16M25 16 25 7 26 7 26 16 25 16M27 16 27 7 28 7 28 16 27 16M29 16 29 7 30 7 30 16 29 16M31 16 31 7 32 7 32 16 31 16M33 16 33 7 34 7 34 16 33 16
+		"
+		fill="#202020"/>
+
+	<path name = "title"
+		d="M4 9M36 6 36 3C36 1 35 0 33 0L5 0 3 6 36 6"
+		fill="#047a74"
+		stroke="#EEEEEE"
+		stroke-opacity="0.5"
+		stroke-width="0.1"/>
+		
+	<text x="6.5" y="3.5" font-size="2px" font-family="consolas" fill="#00FFFF">
+		SAY
+	</text>
+
+	<text x="10" y="3.5" font-size="2px" font-family="consolas" fill="#FFFFFF">
+		(
+	</text>
+
+	<text x="11" y="3.5" font-size="2px" font-family="consolas" fill="#FEED6C">
+		"bonjour visiteur !"
+	</text>
+
+	<text x="33" y="3.5" font-size="2px" font-family="consolas" fill="#FFFFFF">
+		);
+	</text>
+
+</svg>
